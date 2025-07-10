@@ -25,7 +25,7 @@ formatters:
   settings:
     goimports:
       local-prefixes:
-        - github.com/NVIDIA/go-nvml
+        - github.com/jason-gideon/go-nvml
   exclusions:
     generated: lax
     paths:

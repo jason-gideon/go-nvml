@@ -22,8 +22,8 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/NVIDIA/go-nvml/pkg/nvml"
-	"github.com/NVIDIA/go-nvml/pkg/nvml/mock"
+	"github.com/jason-gideon/go-nvml/pkg/nvml"
+	"github.com/jason-gideon/go-nvml/pkg/nvml/mock"
 )
 
 type Server struct {

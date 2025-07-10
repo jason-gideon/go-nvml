@@ -21,7 +21,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/NVIDIA/go-nvml/pkg/nvml"
+	"github.com/jason-gideon/go-nvml/pkg/nvml"
 )
 
 func main() {

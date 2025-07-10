@@ -17,7 +17,7 @@ package nvml
 import (
 	"testing"
 
-	"github.com/NVIDIA/go-nvml/pkg/dl"
+	"github.com/jason-gideon/go-nvml/pkg/dl"
 )
 
 func requireLibNvidiaML(t *testing.T) {
